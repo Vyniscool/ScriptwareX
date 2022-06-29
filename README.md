@@ -13,7 +13,7 @@ VirusTotal: [Here](https://www.virustotal.com/gui/file/aff04e1a0db0c334d211a9d63
 
 # Thumbnails
 ## Execution
-![image](https://cdn.discordapp.com/attachments/991507280682029196/991746489426653225/unknown.png
+![image](https://cdn.discordapp.com/attachments/991507280682029196/991746489426653225/unknown.png)
 ## Script hub
 ![image](https://cdn.discordapp.com/attachments/991507280682029196/991746567520403506/unknown.png)
 ## Settings page 
